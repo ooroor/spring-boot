@@ -24,7 +24,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<json.version>20140107</json.version>
-		<maven.version>3.1.1</maven.version>
+		<maven.version>3.2.1</maven.version>
 	</properties>
 	<prerequisites>
 		<maven>3.0.2</maven>
@@ -109,7 +109,7 @@
 			<dependency>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-shade-plugin</artifactId>
-				<version>2.2</version>
+				<version>3.0.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.maven.plugin-tools</groupId>
@@ -303,7 +303,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -322,7 +322,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -341,7 +341,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -578,8 +578,8 @@
 										<requireJavaVersion>
 											<version>(1.7,1.8)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
@@ -607,8 +607,8 @@
 										<requireJavaVersion>
 											<version>(1.7,1.8)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
