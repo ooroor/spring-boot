@@ -85,7 +85,7 @@
 		<jdom2.version>2.0.5</jdom2.version>
 		<jedis.version>2.5.2</jedis.version>
 		<jersey.version>2.13</jersey.version>
-		<jetty.version>9.2.4.v20141103</jetty.version>
+		<jetty.version>9.4.41.v20210516</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<joda-time.version>2.5</joda-time.version>
 		<jolokia.version>1.2.3</jolokia.version>
@@ -111,7 +111,7 @@
 		<spring-cloud-connectors.version>1.1.0.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.2.RELEASE</spring-batch.version>
 		<spring-data-releasetrain.version>Evans-SR1</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.16.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.0.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>4.1.0.RELEASE</spring-integration.version>
 		<spring-loaded.version>1.2.1.RELEASE</spring-loaded.version>
 		<spring-mobile.version>1.1.3.RELEASE</spring-mobile.version>
